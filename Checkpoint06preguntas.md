@@ -9,7 +9,7 @@
 Una clase en Python es una manera de organizar y estructurar el código, permitiendo crear objetos que comparten características y comportamientos similares.
 Una clase es como una plantilla que define las características y los comportamientos que tendrán los objetos creados a partir de esa clase.
 
-![](../molde.svg)
+![](molde.svg)
 
 **Los elementos clave de la sintaxis de las clases son:**
 
@@ -183,7 +183,7 @@ for animal in animales:
 ```
 En este ejemplo, se usa la misma interfaz (sonido()), pero cada clase lo implementa a su manera.
 
-![](../esquemaprogramacionorientadaaobjetos.svg)
+![](esquemaprogramacionorientadaaobjetos.svg)
 
 Las clases en Python estructuran programas complejos al hacerlos más organizados, reutilizables y fáciles de mantener. Gracias a la encapsulación, herencia, abstracción y polimorfismo, permiten escribir un código más limpio y escalable.
 
