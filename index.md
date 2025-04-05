@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" href="assets/style.css">
 
 # Carolina Martínez García, Checkpoint 6
